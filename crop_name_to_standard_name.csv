@@ -1,0 +1,274 @@
+Original_Name,Standard_Name,Scientific_Name,Notes
+elephant grass,Napier grass,Cenchrus purpureus,Synonym
+Nappier grass,Napier grass,Cenchrus purpureus,Misspelling
+Napier grass (16791),Napier grass,Cenchrus purpureus,Remove accession number
+Napier grass (16803),Napier grass,Cenchrus purpureus,Remove accession number
+Napier grass (16819),Napier grass,Cenchrus purpureus,Remove accession number
+Napier grass (Pennisetum purpureum) 16791,Napier grass,Cenchrus purpureus,Remove accession and old scientific name
+corn,Maize,Zea mays,Synonym
+lucerne,Alfalfa,Medicago sativa,Synonym
+tree lucerne,Alfalfa,Medicago sativa,Synonym
+treelucerne,Alfalfa,Medicago sativa,Synonym
+Tree Lucerne,Alfalfa,Medicago sativa,Synonym
+oat,Oats,Avena sativa,Standardize to plural
+Oat,Oats,Avena sativa,Standardize to plural
+Naked Barly,Naked barley,Hordeum vulgare,Misspelling
+Barly,Barley,Hordeum vulgare,Misspelling
+barly,Barley,Hordeum vulgare,Misspelling
+Desho (Areka DZF590),Desho grass,Pennisetum pedicellatum,Remove accession
+B.Mutica (18659),Brachiaria mutica,Urochloa mutica,Expand abbreviation and remove accession
+B.Decumbens (10871),Brachiaria decumbens,Brachiaria decumbens,Expand abbreviation and remove accession
+Brachiaria mutica ILRI 18659,Brachiaria mutica,Urochloa mutica,Remove accession
+S.Hamata 75,Stylosanthes hamata,Stylosanthes hamata,Expand abbreviation and remove accession
+S.Scabra 140,Stylosanthes scabra,Stylosanthes scabra,Expand abbreviation and remove accession
+Panicum Maximum ILRI 144,Panicum maximum,Panicum maximum,Standardize case and remove accession
+Desmodium Uncinatum 6765,Desmodium uncinatum,Desmodium uncinatum,Standardize case and remove accession
+Rhodes grass,Rhodes grass,Chloris gayana,Common name
+rhodes grass,Rhodes grass,Chloris gayana,Standardize case
+Rhode grass,Rhodes grass,Chloris gayana,Misspelling
+Guinea grass,Guinea grass,Megathyrsus maximus,Common name
+guinea grass,Guinea grass,Megathyrsus maximus,Standardize case
+Para grass,Para grass,Brachiaria mutica,Common name
+para grass,Para grass,Brachiaria mutica,Standardize case
+Signal grass,Signal grass,Brachiaria decumbens,Common name
+signal grass,Signal grass,Brachiaria decumbens,Standardize case
+Teff,Teff straw,Eragrostis tef,Common name
+teff,Teff straw,Eragrostis tef,Standardize case
+Enset,Enset,Ensete ventricosum,Common name
+enset,Enset,Ensete ventricosum,Standardize case
+false banana,Enset,Ensete ventricosum,Synonym
+False banana,Enset,Ensete ventricosum,Synonym
+Cowpea,Cowpea,Vigna unguiculata,Common name
+cowpea,Cowpea,Vigna unguiculata,Standardize case
+Cow pea,Cowpea,Vigna unguiculata,Synonym
+Lablab,Lablab,Lablab purpureus,Common name
+lablab,Lablab,Lablab purpureus,Standardize case
+Hyacinth bean,Lablab,Lablab purpureus,Synonym
+Vetch,Vetch,Vicia sativa,Common name
+vetch,Vetch,Vicia sativa,Standardize case
+Common vetch,Vetch,Vicia sativa,Synonym
+Rhodes Grass,Rhodes grass,Chloris gayana,Standardize case
+Desho Grass,Desho grass,Pennisetum pedicellatum,Standardize case
+Desho Grass                                  ,Desho grass,Pennisetum pedicellatum,Remove extra spaces
+Guatemala grass,Guatemala grass,Tripsacum laxum,Standardize case
+guatemala grass,Guatemala grass,Tripsacum laxum,Standardize case
+Panicum,Panicum maximum,Megathyrsus maximus,Expand to full species
+Panicum Maximum ILRI 144,Panicum maximum,Megathyrsus maximus,Standardize case and remove accession
+Panicum max. ILRI 144,Panicum maximum,Megathyrsus maximus,Expand abbreviation and remove accession
+Panicum max. (Tanzania),Panicum maximum,Megathyrsus maximus,Expand abbreviation and remove variety
+Panicum max. (Massai),Panicum maximum,Megathyrsus maximus,Expand abbreviation and remove variety
+Panicum Pmax. (Mombassa),Panicum maximum,Megathyrsus maximus,Expand abbreviation and remove variety
+Panicum maximum (Tanzania),Panicum maximum,Megathyrsus maximus,Remove variety
+Panicum maximum (Mombassa),Panicum maximum,Megathyrsus maximus,Remove variety
+Panicum maximum (Massai),Panicum maximum,Megathyrsus maximus,Remove variety
+Brachiaria mutica ILRI 18659,Brachiaria mutica,Urochloa mutica,Remove accession
+Brachiaria mutica  ILRI 18659,Brachiaria mutica,Urochloa mutica,Remove accession and extra spaces
+Desmodium uncinatum ILRI 6765,Desmodium uncinatum,Desmodium uncinatum,Remove accession
+Desmodium uncinatum ILRI 6765 ,Desmodium uncinatum,Desmodium uncinatum,Remove accession and trailing space
+Stylosanthes hamata 75,Stylosanthes hamata,Stylosanthes hamata,Remove accession
+Stylosanthes hamata  75,Stylosanthes hamata,Stylosanthes hamata,Remove accession and extra spaces
+Stylosanthes scabra ILRI 140,Stylosanthes scabra,Stylosanthes scabra,Remove accession
+Stylosanthes  Scabra  140,Stylosanthes scabra,Stylosanthes scabra,Standardize case and remove accession
+Alfalfa ILRI 6984,Alfalfa,Medicago sativa,Remove accession
+Alfalfa  ILRI 6984,Alfalfa,Medicago sativa,Remove accession and extra spaces
+Alfalfa  ILRI 6984 ,Alfalfa,Medicago sativa,Remove accession and extra spaces
+Medicago sativa (Alfalfa) ILRI 6984,Alfalfa,Medicago sativa,Use common name and remove accession
+Napier grass ILRI 14984,Napier grass,Cenchrus purpureus,Remove accession
+Napier grass  ILRI 16803,Napier grass,Cenchrus purpureus,Remove accession and extra spaces
+Napier grass  ILRI  16791,Napier grass,Cenchrus purpureus,Remove accession and extra spaces
+Napier grass (Pennisetum purpureum)  16791,Napier grass,Cenchrus purpureus,Remove old scientific name and accession
+Napier grass (Pennisetum purpureum)  16819,Napier grass,Cenchrus purpureus,Remove old scientific name and accession
+Napier grass (Pennisetum purpureum)  16803,Napier grass,Cenchrus purpureus,Remove old scientific name and accession
+clover,Clover,Trifolium spp.,Standardize case
+Vicia spp,Vetch,Vicia sativa,Standardize to common name
+Vicia spp.,Vetch,Vicia sativa,Standardize to common name
+Noug seed cake,Noug seed cake,Guizotia abyssinica,Standardize
+nuge seed cake,Noug seed cake,Guizotia abyssinica,Misspelling
+Noug seed cake,Noug seed cake,Guizotia abyssinica,Standardize
+Teff straw,Teff straw,Eragrostis tef,Standardize
+Wheat straw,Wheat straw,Triticum aestivum,Standardize case
+Wheat straw ,Wheat straw,Triticum aestivum,Remove trailing space
+Wheat bran,Wheat bran,Triticum aestivum,Standardize case
+Wheat bran/Furshika,Wheat bran,Triticum aestivum,Remove local name
+Wheat middling,Wheat middling,Triticum aestivum,Standardize case
+Wheat short,Wheat short,Triticum aestivum,Standardize
+maize middling,Maize middling,Zea mays,Standardize case
+maize bran,Maize bran,Zea mays,Standardize case
+oats straw,Oats straw,Avena sativa,Standardize case
+Oats variety,Oats,Avena sativa,Remove variety designation
+Oats silage,Oats silage,Avena sativa,Standardize case
+Forage oats,Forage oats,Avena sativa,Standardize case
+Forage oats ,Forage oats,Avena sativa,Remove trailing space
+forage oats,Forage oats,Avena sativa,Standardize case
+Food oats 1,Forage oats,Avena sativa,Standardize name
+food oats 1,Forage oats,Avena sativa,Standardize name and case
+Food oats 2,Forage oats,Avena sativa,Standardize name
+food oats 2,Forage oats,Avena sativa,Standardize name and case
+cyperus,Cyperus,Cyperus spp.,Standardize case
+Wheatbran,Wheat bran,Triticum aestivum,Remove space
+Maizebran,Maize bran,Zea mays,Remove space
+Desho grass (Pennisetum glaucifolium),Desho grass,Pennisetum pedicellatum,Remove old scientific name
+Panicum maximum  ILRI 144,Panicum maximum,Megathyrsus maximus,Remove accession
+Desmodium ILRI 6765,Desmodium uncinatum,Desmodium uncinatum,Remove accession
+Stylosanthes hamata /Verano,Stylosanthes hamata,Stylosanthes hamata,Remove variety
+Alfalfa,Alfalfa,Medicago sativa,Common name
+forage oat,Oats,Avena sativa,Standardize
+food oat2,Oats,Avena sativa,Standardize
+food oat1,Oats,Avena sativa,Standardize
+fod oats 1,Oats,Avena sativa,Standardize
+Enset(roots),Enset roots,Ensete ventricosum,Standardize
+Enset (tem),Enset stem,Ensete ventricosum,Standardize
+Broken lentil,Lentil,Lens culinaris,Standardize
+Oat grain,Oat grain,Avena sativa,Standardize
+Lentil hull,Lentil hull,Lens culinaris,By-product
+Bean hull (unroasted),Bean hull,Phaseolus vulgaris,By-product
+Pea hull (roasted),Pea hull,Pisum sativum,By-product
+Pea hull ( roasted),Pea hull,Pisum sativum,By-product
+Pea hull,Pea hull,Pisum sativum,By-product
+Bean hull,Bean hull,Phaseolus vulgaris,By-product
+bean hulls,Bean hull,Phaseolus vulgaris,Standardize plural
+Soya bean meal,Soya bean meal,Glycine max,By-product
+Soya bean cake,Soya bean cake,Glycine max,By-product
+Maize fodder,Maize fodder,Zea mays,Fodder
+Sambalet (Hyparrhenia rufa),Hyparrhenia rufa,Hyparrhenia rufa,Use scientific name
+Maize grain,Maize grain,Zea mays,Grain
+Linseed cake,Linseed cake,Linum usitatissimum,By-product
+Groundnut cake,Groundnut cake,Arachis hypogaea,By-product
+Cabbage (Brassica oleracea var. capitata),Cabbage,Brassica oleracea,Remove variety
+Wheat malt,Wheat malt,Triticum aestivum,By-product
+Wheat Bran,Wheat bran,Triticum aestivum,Standardize case
+Napeir grass,Napier grass,Cenchrus purpureus,Misspelling
+Duram wheat straw,Durum wheat straw,Triticum durum,Standardize spelling
+Nappier grass (16791),Napier grass,Cenchrus purpureus,Misspelling and remove accession
+Vetch only,Vetch,Vicia sativa,Remove only
+Choped maize straw,Maize stover,Zea mays,Standardize
+wheat straw,Wheat straw,Triticum aestivum,Standardize case
+Wheat staw,Wheat straw,Triticum aestivum,Misspelling
+maize flour,Maize flour,Zea mays,By-product
+semi grinded maize,Maize flour,Zea mays,Standardize
+maize hull,Maize hull,Zea mays,By-product
+maize silage,Maize silage,Zea mays,Silage
+wheat bran,Wheat bran,Triticum aestivum,Standardize case
+teff straw,Teff straw,Eragrostis tef,Standardize case
+coba leaf,Coba leaf,Coba spp.,Leaf
+lime stone,Limestone,Mineral,Standardize
+limestone,Limestone,Mineral,Mineral
+FLORIDA KEYS INDIAN MALLOW,Florida Keys Indian mallow,Abutilon permolle,Standardize case
+Tef straw,Teff straw,Eragrostis tef,
+Bean hull (roasted),Bean hull,Phaseolus vulgaris,
+Ground nut cake,Groundnut cake,Arachis hypogaea,
+Barley hull (unroasted),Barley hull,Hordeum vulgare,
+B. mutica,Brachiaria mutica,Para grass,
+C.cilliaris,Buffel grass,Cenchrus ciliaris,
+P. maximum,Panicum maximum,,
+P. coloratum,Klein grass,Panicum coloratum,
+Mulato II,Mulato II,Mulato II,
+Phalaris,Harding grass,Phalaris aquatica,
+Desmodium,Desmodium,Desmodium uncinatum,
+P.maximum,Panicum maximum,Megathyrsus maximus,
+soyabean hull,Soya bean hull,Glycine max,
+Barely straw,Barley straw,Hordeum vulgare,
+blackthorn,Blackthorn,Acacia mellifera,
+spike thorn,Spikethorn,Acacia galpinii,
+spike thorn,Spikethorn,Acacia galpinii,
+rosted barley hull,Barley hull,Hordeum vulgare,
+barley straw,Barley straw,Hordeum vulgare,
+oat hull,Oat hull,Avena sativa,
+koba/ enset leaf,Enset leaf,Ensete ventricosum,
+semi grinded soyabean,Soya bean meal,Glycine max,
+desho grass,Desho grass,Cenchrus pedicellatus,
+desmodum,Desmodium,Desmodium uncinatum,
+alfalfa,Alfalfa,Medicago sativa,
+enset leaf/ coba leaf,Enset leaf,Ensete ventricosum,
+enset silage,Enset silage,Ensete ventricosum,
+cabage leaf,Cabbage,Brassica oleracea,
+lentil hull,Lentil hull,Lens culinaris,
+wheat husk,Wheat husk,Triticum aestivum,
+maize stover,Maize stover,Zea mays,
+turnip husk,Turnip husk,Brassica rapa,
+barly husk,Barley husk,Hordeum vulgare,
+enset leaf,Enset leaf,Ensete ventricosum,
+barly husk,Barley husk,Hordeum vulgare,
+roasted barley hull,Barley hull,Hordeum vulgare,
+enset/coba leaf,Enset leaf,Ensete ventricosum,
+rosted barly hull,Barley hull,Hordeum vulgare,
+sesbania,Riverhemp,Sesbania sesban,
+Fresh Oats,Oats,Avena sativa,
+Phalaris silage,Harding grass silage,Phalaris aquatica,
+Sedge,Sedge,Carex aquatilis,
+B. mutica,Para grass,Brachiaria mutica,
+Wheat  bran,Wheat bran,Triticum aestivum,
+Rice bran,Rice bran,Oryza sativa,
+Soya meal,Soya bean meal,Glycine max,
+bean straw,Bean straw,Phaseolus vulgaris,
+cabbage leaf,Cabbage leaf,Brassica oleracea,
+Fresh phalaris,Harding grass,Phalaris aquatica,
+phalaris silage,Harding grass silage,Phalaris aquatica,
+Alfalfa only,Alfalfa,Medicago sativa,
+Brachiaria spp,Brachiaria spp,Brachiaria spp,
+Sesbania,Riverhemp,Sesbania sesban,
+Barley straw,Barley straw,Hordeum vulgare,
+Roasted barely hull,Barley hull,Hordeum vulgare,
+Elephant grass,Napier grass,Cenchrus purpureus,
+Crotalaria,Rattlepod,Crotalaria brevidens,
+Lathyrus,Peavines,Lathyrus venosus,
+Phaseolus,Bean,Phaseolus vulgaris,
+Lupinus,Lupin,Lupinus angustifolius,
+Macroptilium,Siratro,Macroptilium atropurpureum,
+Noug cake,Noug seed cake,Guizotia abyssinica,
+Perennial soybean,Soya bean hull,Glycine max,
+Pinto peanut,Pinto peanut,Arachis pintoi,
+Barley bull,Barley hull,Hordeum vulgare,
+Choped maize straw,Maize stover,Zea mays,
+soyabean hull,Soya bean hull,Glycine max,
+wheat straw,Wheat straw,Triticum aestivum,
+maize hull,Maize hull,Zea mays,
+Wheat straw,Wheat straw,Triticum aestivum,
+Barely straw,Barley straw,Hordeum vulgare,
+Barely straw,Barley straw,Hordeum vulgare,
+bean hulls,Bean hull,Phaseolus vulgaris,
+Noug seed cake,Noug seed cake,Guizotia abyssinica,
+rosted barley hull,Barley hull,Hordeum vulgare,
+teff straw,Teff straw,Eragrostis tef,
+lentil hull,Lentil hull,Lens culinaris,
+turnip husk,Turnip husk,Brassica rapa,
+barly husk,Barley husk,Hordeum vulgare,
+roasted barley hull,Barley hull,Hordeum vulgare,
+rosted barly hull,Barley hull,Hordeum vulgare,
+Teff straw,Teff straw,Eragrostis tef,
+Noug seeds cake,Noug seed cake,Guizotia abyssinica,
+Cowpea,Cowpea,Vigna unguiculata,
+Napier grass,Napier grass,Cenchrus purpureus,
+Barley hull,Barley hull,Hordeum vulgare,
+Wheat staw,Wheat straw,Triticum aestivum,
+maize hull,Maize hull,Zea mays,
+Brachiaria,Brachiaria spp,Brachiaria spp,
+vetch straw,Vetch straw,Vicia sativa,
+Wheat Short,Wheat short,Triticum aestivum,
+wheat middling,Wheat middling,Triticum aestivum,
+wheat short,Wheat short,Triticum aestivum,
+maize middling,Maize middling,Zea mays,
+maize short,Maize short,Zea mays,
+linseed cake,Linseed cake,Linum usitatissimum,
+barley middling,Barley middling,Hordeum vulgare,
+bean hull,Bean hull,Phaseolus vulgaris,
+Cottonseed cake,Cottonseed cake,Gossypium hirsutum,
+Maize Middling,Maize middling,Zea mays,
+Bean hull (unroasted),Bean hull,Phaseolus vulgaris,
+Bean hull (roasted),Bean hull,Phaseolus vulgaris,
+rosted barley hull,Barley hull,Hordeum vulgare,
+sunflower seed cake,Sunflower seed cake,Helianthus annuus,
+wheat bran (fine bran),Wheat bran,Triticum aestivum,
+nuge seed cake,Noug seed cake,Guizotia abyssinica,
+linen seed cake,Linseed cake,Linum usitatissimum,
+nuge cake,Noug seed cake,Guizotia abyssinica,
+barly husk,Barley husk,Hordeum vulgare,
+Lin seeds cake,Linseed cake,Linum usitatissimum,
+cotton seed cake,Cotton seed cake,Gossypium hirsutum,
+Noug seed cake,Noug seed cake,Guizotia abyssinica,
+fine maize bran,Maize bran,Zea mays,
+roasted barley hull,Barley hull,Hordeum vulgare,
+soaked barley,Barley,Hordeum vulgare,
+maiz middling,Maize middling,Zea mays,
+Sweet potato vines and tuber,Sweet potato vines,Ipomoea batatas,
+Sesame seed cake,Sesame seed cake,Sesamum indicum,
