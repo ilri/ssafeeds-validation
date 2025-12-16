@@ -2,14 +2,6 @@
 # Date: 2025-12-16
 # Description: Plant parts population for SSA feeds database
 
-# Author: John Mutua
-# Date: 2025-12-16
-# Description: Feed type mapping for SSA feeds database
-
-# Author: John Mutua
-# Date: 2025-12-16
-# Description: Biological validation for SSA feeds database
-
 library(data.table)
 
 dt <- fread("dataset_step3_with_scientific_names.csv")

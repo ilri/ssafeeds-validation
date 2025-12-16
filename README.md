@@ -1,12 +1,12 @@
 # SSA Feeds Processing Pipeline
 
-Automated data cleaning and validation pipeline for sub-Saharan Africa feeds composition database ('SSA Feeds').
+Automated data cleaning and validation pipeline for sub-Saharan Africa feeds composition database (SSA Feeds).
 
 ## Overview
 
-This pipeline includes two critical components:
-1. **Data Cleaning**: Processes feed composition records through 9 sequential cleaning steps with high retention rate
-2. **Data Validation**: Validates new data entries against 6 validation rules before database import
+This pipeline includes two components:
+1. **Data Cleaning**: Processes feed composition records through 9 sequential cleaning steps.
+2. **Data Validation**: Validates new data entries against 6 validation rules before database import.
 
 ## Quick Start
 
